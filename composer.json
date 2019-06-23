@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/expression-language": "^4.3"
+    },
+    "require-dev": {
+        "psy/psysh": "@stable",
+        "phpunit/phpunit": "^8.2"
+    }
+}
